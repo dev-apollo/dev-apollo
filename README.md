@@ -23,18 +23,18 @@
     <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/jquery.svg" width="5%" alt="jQuery">
     <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/nodejs-auto.svg" width="5%" alt="Node.js">
     <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/react-auto.svg" width="5%" alt="React">
-    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/numpy-auto.svg" width="5%" alt="Numpy">
-    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/pandas-auto.svg" width="5%" alt="Pandas">
 </div>
 
 <h3>Tools:</h3>
 <div>    
     <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/vscode-auto.svg" width="5%" alt="Visual Studio Code">
-    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/git-auto.svg" width="5%" alt="Git">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1621f691371d380e9796d22127eaccd217b7a400/assets/figma-auto.svg" width="5%" alt="Figma">
     <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/github-auto.svg" width="5%" alt="Github">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/git-auto.svg" width="5%" alt="Git">
     <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/vite-auto.svg" width="5%" alt="Vite">
     <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/postgresql-auto.svg" width="5%" alt="PostgreSQL">
     <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/dbeaver-auto.svg" width="5%" alt="DBeaver">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1621f691371d380e9796d22127eaccd217b7a400/assets/supabase-auto.svg" width="5%" alt="Supabase">
     <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/render-auto.svg" width="5%" alt="Render">
 </div>
 
